@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'tpk-icon';
+    src:  url('../fonts/tpk-icon.eot?jrme1m');
+    src:  url('../fonts/tpk-icon.eot?jrme1m#iefix') format('embedded-opentype'),
+    url('../fonts/tpk-icon.ttf?jrme1m') format('truetype'),
+    url('../fonts/tpk-icon.woff?jrme1m') format('woff'),
+    url('../fonts/tpk-icon.svg?jrme1m#tpk-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.tpk-icon {
+    font-family: 'tpk-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.tpk-settings:before {
+    content: "\e908";
+}
+.tpk-mail-envelope-closed:before {
+    content: "\e905";
+}
+.tpk-g_translate:before {
+    content: "\e900";
+}
+.tpk-sphere:before {
+    content: "\e901";
+}
+.tpk-flickr:before {
+    content: "\e902";
+}
+.tpk-blogger:before {
+    content: "\e903";
+}
+.tpk-delicious:before {
+    content: "\e904";
+}
+.tpk-star-outlined:before {
+    content: "\e906";
+}
+.tpk-star:before {
+    content: "\e907";
+}
+.tpk-search:before {
+    content: "\f002";
+}
+.tpk-twitter:before {
+    content: "\f099";
+}
+.tpk-facebook:before {
+    content: "\f09a";
+}
+.tpk-facebook-f:before {
+    content: "\f09a";
+}
+.tpk-github:before {
+    content: "\f09b";
+}
+.tpk-feed:before {
+    content: "\f09e";
+}
+.tpk-rss:before {
+    content: "\f09e";
+}
+.tpk-linkedin:before {
+    content: "\f0e1";
+}
+.tpk-xing:before {
+    content: "\f168";
+}
+.tpk-youtube-play:before {
+    content: "\f16a";
+}
+.tpk-stack-overflow:before {
+    content: "\f16c";
+}
+.tpk-instagram:before {
+    content: "\f16d";
+}
+.tpk-tumblr:before {
+    content: "\f173";
+}
+.tpk-dribbble:before {
+    content: "\f17d";
+}
+.tpk-skype:before {
+    content: "\f17e";
+}
+.tpk-foursquare:before {
+    content: "\f180";
+}
+.tpk-vk:before {
+    content: "\f189";
+}
+.tpk-wordpress:before {
+    content: "\f19a";
+}
+.tpk-behance:before {
+    content: "\f1b4";
+}
+.tpk-steam:before {
+    content: "\f1b6";
+}
+.tpk-spotify:before {
+    content: "\f1bc";
+}
+.tpk-soundcloud:before {
+    content: "\f1be";
+}
+.tpk-share-alt:before {
+    content: "\f1e0";
+}
+.tpk-twitch:before {
+    content: "\f1e8";
+}
+.tpk-pinterest-p:before {
+    content: "\f231";
+}
+.tpk-whatsapp:before {
+    content: "\f232";
+}
+.tpk-medium:before {
+    content: "\f23a";
+}
+.tpk-vimeo:before {
+    content: "\f27d";
+}
+.tpk-reddit-alien:before {
+    content: "\f281";
+}
+.tpk-snapchat-ghost:before {
+    content: "\f2ac";
+}
